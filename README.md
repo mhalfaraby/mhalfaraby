@@ -12,15 +12,5 @@
 
  Simple App                                                                      
 
-![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif)         
-
-
- API RajaOngkir
-
-
-![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif)
-
-
-
-
-
+![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif)   ![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif)
+       
