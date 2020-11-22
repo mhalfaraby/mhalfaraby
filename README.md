@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 
@@ -7,4 +7,20 @@
 - 🌱 I’m currently learning Swift 
 
 - ⚡ Fun fact I'm also Commercial Pilot
+
+## My Portfolio
+
+ Simple App                                                                      
+
+![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif)         
+
+
+ API RajaOngkir
+
+
+![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif)
+
+
+
+
 
