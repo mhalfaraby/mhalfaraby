@@ -10,8 +10,8 @@
 
 ## My Portfolio
                                        
-simple App list of Indonesian Food <br/>
+Simple App list of Indonesian Food <br/>
 ![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif) <br/>  
-Check Shipping Rates   <br/> ![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif) <br/> Dota 2 list of Heroes
+Check Shipping Rates From RajaOngkirApi  <br/> ![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif) <br/> UICollectionVIew From Dota 2 API <br/>
 ![gif](https://thumbs.gfycat.com/FantasticParchedArgali-size_restricted.gif) <br/>
        
