@@ -10,7 +10,8 @@
 
 ## My Portfolio
                                        
-simple App list of Indonesian Food
-![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif) <br/>   simple App checking shipping charges ![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif) <br/>
-![gif](https://thumbs.gfycat.com/FantasticParchedArgali-size_restricted.gif)
+simple App list of Indonesian Food <br/>
+![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif) <br/>  
+Check Shipping Rates   <br/> ![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif) <br/> Dota 2 list of Heroes
+![gif](https://thumbs.gfycat.com/FantasticParchedArgali-size_restricted.gif) <br/>
        
