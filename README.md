@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact I'm also Commercial Pilot
 
-## My Portfolio
+## Portfolio
 
 
 | myProject        | Preview           | 
