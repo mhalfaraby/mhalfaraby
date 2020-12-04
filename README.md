@@ -9,11 +9,10 @@
 - ⚡ Fun fact I'm also Commercial Pilot
 
 ## My Portfolio
-                                       
-Simple App list of Indonesian Food  <br/>   
-![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif) <br/>
-Check Shipping Rates From RajaOngkirApi <br/>
-![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif)    <br/>
-UICollectionVIew From Dota 2 API   <br/>
-![gif](https://thumbs.gfycat.com/FantasticParchedArgali-size_restricted.gif) <br/>
-       
+
+
+| myProject        | Preview           | 
+| ------------- |---------------| 
+| Simple App list of Indonesian Food      | ![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif) |
+| Check Shipping Rates From RajaOngkirApi      |![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif)  |
+| UICollectionVIew From Dota 2 API      | ![gif](https://thumbs.gfycat.com/FantasticParchedArgali-size_restricted.gif) |
