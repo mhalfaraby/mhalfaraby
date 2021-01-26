@@ -13,7 +13,7 @@
 
 | myProject        | Preview           | 
 | ------------- |---------------| 
-| Contact App using Firebase as backend & CRUD Operation <br/>[Full Screen Video](https://gfycat.com/peacefulcalculatingbaiji)      | ![gif](https://thumbs.gfycat.com/PeacefulCalculatingBaiji-size_restricted.gif) |
+| Contact App using Firebase as backend & CRUD Operation <br/>[Full Screen Preview](https://gfycat.com/peacefulcalculatingbaiji)      | ![gif](https://thumbs.gfycat.com/PeacefulCalculatingBaiji-size_restricted.gif) |
 | Simple App list of Indonesian Food      | ![gif](https://thumbs.gfycat.com/SnappyWealthyBaiji-size_restricted.gif) |
 | Check Shipping Rates From RajaOngkirApi      |![gif](https://thumbs.gfycat.com/ImpoliteTallJaeger-size_restricted.gif)  |
 | UICollectionVIew From Dota 2 API      | ![gif](https://thumbs.gfycat.com/FantasticParchedArgali-size_restricted.gif) |
