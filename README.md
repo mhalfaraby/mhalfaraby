@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning iOS Application with Swift language  & Flutter application with Dart language.
 
-- ⚡ Fun fact I'm also Commercial Pilot (US FAA certified & Indonesia DGCA certified) now switching to iOS programmer career. 
+- ⚡ Fun fact I'm also Commercial Pilot (US FAA certified & Indonesia DGCA certified)  
 
 ## Portfolio
 
