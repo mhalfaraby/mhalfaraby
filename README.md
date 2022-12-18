@@ -1,5 +1,6 @@
 # Hi there 👋
 
+- 👨🏽‍💻  ![](https://img.shields.io/badge/Learn%20How%20To-Code%20-green)
 
 - 🔭 I’m currently working on my Project to build iOS Apps 
 
@@ -7,7 +8,6 @@
 
 - ⚡ Fun fact I'm also Commercial Pilot (US FAA certified & Indonesia DGCA certified)  
 
-- 👨🏽‍💻  ![](https://img.shields.io/badge/Learn%20How%20To-Code%20-green)
 
 ## Portfolio
 
