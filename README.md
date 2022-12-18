@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact I'm also Commercial Pilot (US FAA certified & Indonesia DGCA certified)  
 
-![](https://img.shields.io/badge/Learn%20How%20To-Code%20-green)
+- 👨🏽‍💻  ![](https://img.shields.io/badge/Learn%20How%20To-Code%20-green)
 
 ## Portfolio
 
